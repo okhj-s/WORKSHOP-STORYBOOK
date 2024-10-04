@@ -1,8 +1,7 @@
 # WORKSHOP-STORYBOOK
 
 ## [description]
-- 브랜치별로 여러 스토리북을 사용해보는 repository
-    - main: description을 설명하는 브랜치
+- 스토리북 튜토리얼을 진행해보는 브랜치
 
 ## [author]
 - 옥현지
