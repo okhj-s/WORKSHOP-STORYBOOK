@@ -23,7 +23,8 @@
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "init-msw": "msw init public/"
+    "init-msw": "msw init public/",
+    "test": "vitest"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^8.3.2",
@@ -47,7 +48,8 @@
     "prop-types": "^15.8.1",
     "react-test-renderer": "^18.3.1",
     "storybook": "^8.3.2",
-    "vite": "^5.2.0"
+    "vite": "^5.2.0",
+    "vitest": "^2.1.2"
   },
   "resolutions": {
     "jackspeak": "2.1.1"
